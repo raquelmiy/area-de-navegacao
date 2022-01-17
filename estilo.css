@@ -1,0 +1,42 @@
+body{
+	font-family: "Poppins", sans-serif;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 720px;
+}
+
+ul li{
+	float: left;
+	background:#6666FF;
+	border-radius: 5px;
+}
+
+li a{
+	display: block;
+	padding: 0 2em;
+	line-height: 3em;
+	text-decoration: none;
+	background-image: blue;
+}
+
+ul a:hover {
+background: linear-gradient(40deg,#B39CD0,#9933FF);
+border-radius: 5px;
+color: white;
+}
+
+a{
+	color: #000;
+}
+
+ul #atual{
+	background: ;
+}
+
+ul #atual a{
+	background:;
+}
